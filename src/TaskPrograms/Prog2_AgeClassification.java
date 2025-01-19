@@ -1,4 +1,4 @@
-package TernaryOperators;
+package TaskPrograms;
 
 public class Prog2_AgeClassification {
     public static void main(String[] args) {
