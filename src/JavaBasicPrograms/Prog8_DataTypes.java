@@ -1,6 +1,6 @@
 package JavaBasicPrograms;
 
-public class Prog8_DataTypes {
+public class Prog8_DataTypes{
     public static void main(String[] args) {
         /*Primitive  DataTypes
         Boolean*/
@@ -44,6 +44,27 @@ public class Prog8_DataTypes {
         //long
         long g =-721837138;
         System.out.println(g);
+        long h = 738731898;
+        System.out.println(h);
+        /* long i = -72387393791782
+        System.out.println(i);
+        long j = -72387393791782
+        System.out.println(j);
+         */
+
+        //Char
+        char i = 'A' ;
+        System.out.println(i);
+        char j = '5';
+        System.out.println(j);
+        /*
+        char k = '-M';
+        System.out.println(k);
+         */
+
+
+
+
 
 
 
