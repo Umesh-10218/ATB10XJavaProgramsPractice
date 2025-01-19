@@ -1,6 +1,6 @@
 package JavaBasicPrograms;
 
-public class Prog8_DataTypes {
+public class Prog8_DataTypes{
     public static void main(String[] args) {
         /*Primitive  DataTypes
         Boolean*/
