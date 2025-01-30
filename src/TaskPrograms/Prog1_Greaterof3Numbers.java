@@ -1,4 +1,4 @@
-package TernaryOperators;
+package TaskPrograms;
 
 public class Prog1_Greaterof3Numbers {
     public static void main(String[] args) {

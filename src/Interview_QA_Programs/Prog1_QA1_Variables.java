@@ -1,6 +1,6 @@
 package Interview_QA_Programs;
 
-public class Prog1_QA1 {
+public class Prog1_QA1_Variables {
     public static void main(String[] args) {
         // _2 & _0 is an identifier/VariableName
         int _2 = 123;

@@ -1,6 +1,6 @@
 package JavaBasicPrograms;
 
-public class Prog7_Variable {
+public class Prog7_Variables {
     public static void main(String[] args) {
         // Datatype Identifier/VariableName = Variable Value
         int a = 10, b = 3;
