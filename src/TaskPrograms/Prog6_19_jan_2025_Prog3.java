@@ -8,7 +8,7 @@ public class Prog6_19_jan_2025_Prog3 {
         a++ --> B --> ExpB -->19   --> a=19+1=20
         a-- --> C --> ExpC --> 20 --> a=20-1 =19
         ExpA+ExpB+ExpC --> 19+19+20
-        a--> 78
+        a--> 19
 
          */
         System.out.println(--a + a++ + a--);

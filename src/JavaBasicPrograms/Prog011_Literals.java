@@ -1,6 +1,6 @@
 package JavaBasicPrograms;
 
-public class Prog11_Literals {
+public class Prog011_Literals {
     public static void main(String[] args) {
         //Literals
         int i = 78 ;
