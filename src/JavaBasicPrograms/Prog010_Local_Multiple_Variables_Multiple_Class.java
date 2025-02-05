@@ -1,6 +1,6 @@
 package JavaBasicPrograms;
 
-public class Prog10_Local_Multiple_Variables_Multiple_Class {
+public class Prog010_Local_Multiple_Variables_Multiple_Class {
     public static void main(String[] args) {
         //Local Variables
         byte b = 105;
