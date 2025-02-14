@@ -2,37 +2,28 @@ package TaskPrograms;
 
 import java.util.Scanner;
 
-public class Prog10_25_jan_2025_Vowels_Consonants {
+public class Prog11_25_jan_2025_Palindrome_of_a_str {
     public static void main(String[] args) {
-       // Count of Vowels & Consonants in a String
-        int Vcount =0;
-        int Ccount =0;
-
-        //With CLI option
-        Scanner VowCon = new Scanner(System.in);
-        System.out.println("Enter a Name : ");
-        String name = VowCon.next();
-
+      /* Inputs and outputs
+      name = madam    & rev.name=madam
+       */
+        // Using CLI option to give inputs
+        Scanner palin =  new Scanner(System.in);
+        System.out.println("Enter the word : ");
+        String str = palin.next();
 
 
+        String Reversedstr = new StringBuilder(str).reverse().toString();
 
 
-        //Use this without CLI String name = "Umesh A";
-        int i;
-        for ( i=0 ; i <name.length() ; i++)
+        //Condition
+        if (str.equalsIgnoreCase(Reversedstr))
         {
-            char ch = Character.toLowerCase(name.charAt(i));
-            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
-            {
-                Vcount++;
-            }
-            else
-            {
-                Ccount++;
-            }
+            System.out.println("Given word is a palindrome");
         }
-        System.out.println("No of Vowels = " + Vcount);
-        System.out.println("No of Consonants = " + Ccount);
-
+        else
+        {
+            System.out.println("Given word is not a palindrome");
+        }
     }
 }

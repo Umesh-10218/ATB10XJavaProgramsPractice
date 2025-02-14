@@ -1,13 +1,21 @@
 package TaskPrograms;
 
-public class Prog8_19_jan_2025_CLI_Option_Max_of_2_Nos {
+public class Prog9_25_jan_2025_Fizz_Buzz {
     public static void main(String[] args) {
-        String no1 = args [0];
-        int n1 = Integer.parseInt(no1);
-        String no2 = args[1];
-        int n2 =Integer.parseInt(no2);
-        int max_number = (n1>n2) ? n1:n2 ;
-        System.out.println("Maximum of 2 numbers is " + max_number);
+        int i;
+        for (i = 1; i <=100 ; i++) {
+            if (i % 3 == 0) {
+                System.out.println( i + " is Multiple of 3 " + "Fizz");
+            }
+            if (i % 5 == 0)
+            {
+                System.out.println(i + " is Multiple of 5 " + "Buzz");
+            }
+            if (i % 3 == 0 && i % 5 == 0)
+            {
+                System.out.println( i + " is Multiple of 3 & 5 " + "FizzBuzz");
+            }
+        }
 
     }
 }
