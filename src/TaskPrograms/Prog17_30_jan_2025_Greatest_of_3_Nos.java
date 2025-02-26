@@ -13,7 +13,7 @@ public class Prog17_30_jan_2025_Greatest_of_3_Nos {
         System.out.println("Enter the 3rd Number : ");
         int n3 = num.nextInt();
 
-        if(n1>n2 && n1>=3)
+        if(n1>n2 && n1>n3)
         {
             System.out.println("N1 is Greater");
         }

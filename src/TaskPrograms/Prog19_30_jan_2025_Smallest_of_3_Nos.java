@@ -17,7 +17,7 @@ public class Prog19_30_jan_2025_Smallest_of_3_Nos {
         {
             System.out.println("Smallest Number is n1--> " + n1);
         }
-        else if (n2<=n3 && n2<=n1)
+        else if (n2<n3 && n2<n1)
         {
             System.out.println("Smallest Number is n2--> " + n2);
         }
