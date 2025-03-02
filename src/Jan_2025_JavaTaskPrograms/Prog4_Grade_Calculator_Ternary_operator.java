@@ -1,6 +1,4 @@
-package TaskPrograms;
-
-import java.util.Scanner;
+package Jan_2025_JavaTaskPrograms;
 
 public class Prog4_Grade_Calculator_Ternary_operator {
     public static void main(String[] args) {

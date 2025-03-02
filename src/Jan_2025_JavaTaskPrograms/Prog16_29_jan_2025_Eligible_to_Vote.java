@@ -1,6 +1,5 @@
-package TaskPrograms;
+package Jan_2025_JavaTaskPrograms;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Prog16_29_jan_2025_Eligible_to_Vote {

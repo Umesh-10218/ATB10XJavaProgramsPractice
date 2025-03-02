@@ -1,4 +1,4 @@
-package TaskPrograms;
+package Jan_2025_JavaTaskPrograms;
 
 public class Prog9_25_jan_2025_Fizz_Buzz {
     public static void main(String[] args) {
