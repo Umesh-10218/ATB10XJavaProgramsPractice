@@ -1,4 +1,4 @@
-package TaskPrograms;
+package Jan_2025_JavaTaskPrograms;
 
 public class Prog7_19_jan_2025_CLI_Option_Name_Age_Sal {
     public static void main(String[] args) {

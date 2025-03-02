@@ -1,4 +1,4 @@
-package TaskPrograms;
+package Jan_2025_JavaTaskPrograms;
 
 public class Prog8_19_jan_2025_CLI_Option_Max_of_2_Nos {
     public static void main(String[] args) {

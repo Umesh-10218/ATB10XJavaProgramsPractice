@@ -1,4 +1,4 @@
-package TaskPrograms;
+package Jan_2025_JavaTaskPrograms;
 
 public class Prog5_19_jan_2025_Prog2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package TaskPrograms;
+package Jan_2025_JavaTaskPrograms;
 
 public class Prog2_AgeClassification {
     public static void main(String[] args) {

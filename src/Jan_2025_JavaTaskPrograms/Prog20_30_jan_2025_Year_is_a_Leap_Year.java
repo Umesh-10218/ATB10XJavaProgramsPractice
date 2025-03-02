@@ -1,6 +1,5 @@
-package TaskPrograms;
+package Jan_2025_JavaTaskPrograms;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Prog20_30_jan_2025_Year_is_a_Leap_Year {
