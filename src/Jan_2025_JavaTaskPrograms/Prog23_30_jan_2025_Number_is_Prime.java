@@ -17,7 +17,10 @@ public class Prog23_30_jan_2025_Number_is_Prime {
         else
         {
             System.out.println(num + "is not a prime number");
+            
         }
+
+
 
     }
 }
